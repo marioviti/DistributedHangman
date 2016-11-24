@@ -1,0 +1,1 @@
+{"logged":{},"games":{},"registered":{"a":"a","b":"b","g":"g","j":"j"}}
